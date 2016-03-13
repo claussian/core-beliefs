@@ -1,2 +1,2 @@
 # core-beliefs
-Analysis of Core Beliefs Questionnaire from Singapore Philosophy group
+Analysis of Core Beliefs Questionnaire from Singapore Philosophy Group
